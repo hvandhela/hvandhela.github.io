@@ -1,32 +1,34 @@
-p.dashed {
-    border-style: dashed;
-    width: fit-content;
-    font-weight: bold;}
-div.profile{
-    text-align: center;
-}
 body{
-    background-color: #eb8f34;
-    width : 40%;
-    position: center;
-    padding: 50px;
-    margin: 20px;
-    margin-left: 30em;
+    background-color: #f7e9b0;
 }
-h1{
-    position: center;
-}
-p{
+.center{
+    margin: auto;
+    width: 30%;
     text-align: center;
 }
-img{
-    width: 80%;
-    height: 80%;
-    position: center;
+.center h2{
+    border-style: dashed;
 }
-a{
-    color: blue;
+.center h1{
+    text-transform: uppercase;
+}
+.center p{
+    text-align: justify;
+    font: small-caps bold 12px/30px;
+}
+#a{
+    text-decoration: line-through;
+    background-color: yellow;
+}
+#b{
+    background-color: yellowgreen;
+}
+#photo{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 blockquote{
-    position: center;
+    font:small-caps block 12px/30px;
 }
