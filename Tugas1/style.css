@@ -1,0 +1,32 @@
+p.dashed {
+    border-style: dashed;
+    width: fit-content;
+    font-weight: bold;}
+div.profile{
+    text-align: center;
+}
+body{
+    background-color: #eb8f34;
+    width : 40%;
+    position: center;
+    padding: 50px;
+    margin: 20px;
+    margin-left: 30em;
+}
+h1{
+    position: center;
+}
+p{
+    text-align: center;
+}
+img{
+    width: 80%;
+    height: 80%;
+    position: center;
+}
+a{
+    color: blue;
+}
+blockquote{
+    position: center;
+}
