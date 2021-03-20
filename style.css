@@ -18,22 +18,22 @@ body {
   
   #profile {
     text-align: center;
-    border-style: inset;
+    border-style: dashed;
     text-transform: uppercase;
   }
   #biodata {
     text-align: center;
-    border-style: inset;
+    border-style: dashed;
     text-transform: uppercase;
   }
   
   del {
-    background-color: white;
+    background-color: yellowgreen;
   }
   
   #motto {
     text-align: center;
-    border-style: inset;
+    border-style: dashed;
     text-transform: uppercase;
   }
   
