@@ -33,3 +33,7 @@ body{
 blockquote{
     font:small-caps block 12px/30px;
 }
+
+#date{
+    display: none;
+}
