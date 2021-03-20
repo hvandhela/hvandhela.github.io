@@ -1,39 +1,54 @@
-body{
+body {
     background-color: #f7e9b0;
-}
-.center{
-    margin: auto;
-    width: 30%;
+  }
+  h1 {
     text-align: center;
-}
-.center h2{
-    border-style: dashed;
-}
-.center h1{
     text-transform: uppercase;
-}
-.center p{
-    text-align: justify;
-    font: small-caps bold 12px/30px;
-}
-#a{
-    text-decoration: line-through;
-    background-color: yellow;
-}
-#b{
-    background-color: yellowgreen;
-}
-#photo{
+  }
+  .page {
     width: 30%;
-    height: 30%;
+    margin: auto;
+  }
+  img {
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
     display: block;
-}
-blockquote{
-    font:small-caps block 12px/30px;
-}
-
-#date{
+  }
+  
+  #profile {
+    text-align: center;
+    border-style: inset;
+    text-transform: uppercase;
+  }
+  #biodata {
+    text-align: center;
+    border-style: inset;
+    text-transform: uppercase;
+  }
+  
+  del {
+    background-color: white;
+  }
+  
+  #motto {
+    text-align: center;
+    border-style: inset;
+    text-transform: uppercase;
+  }
+  
+  .page p {
+    text-align: justify;
+  }
+  
+  p {
+    font: 15px Arial, sans-serif;
+  }
+  blockquote {
+    font: 15px Arial, sans-serif;
+  }
+  
+  #date {
     display: none;
-}
+  }
+  
